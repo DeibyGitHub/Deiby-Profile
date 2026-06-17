@@ -39,8 +39,6 @@ Academic ASP.NET Core MVC web application for managing students, payments, billi
 
 [View Repository](https://github.com/DeibyGitHub/School-Payment-Management-System-TFG)
 
-**Technologies:** C#, ASP.NET Core MVC, SQL Server, Entity Framework Core, HTML, CSS, JavaScript
-
 ## Career Goal
 
 My goal is to continue growing as a junior developer or data analyst, applying my technical knowledge to real-world projects while improving my professional experience in the IT field.
