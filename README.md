@@ -37,7 +37,7 @@ Academic ASP.NET Core MVC web application for managing students, payments, billi
 
 **Technologies:** C#, ASP.NET Core MVC, Entity Framework Core, ASP.NET Core Identity, SQL Server, Bootstrap
 
-[View Repository](https://github.com/DeibyGitHub/school-payment-management-system)
+[View Repository](https://github.com/DeibyGitHub/School-Payment-Management-System-TFG)
 
 **Technologies:** C#, ASP.NET Core MVC, SQL Server, Entity Framework Core, HTML, CSS, JavaScript
 
