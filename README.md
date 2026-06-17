@@ -33,7 +33,11 @@ Visual Studio 2022, Visual Studio Code, PyCharm, Git, GitHub, SQL Server Managem
 
 ### School Payment Management System
 
-Academic final graduation project developed as a web system for managing student payments, pending balances, reports, and user roles for a private childcare center.
+Academic ASP.NET Core MVC web application for managing students, payments, billing records, reports, reminders, and internal users in an educational institution.
+
+**Technologies:** C#, ASP.NET Core MVC, Entity Framework Core, ASP.NET Core Identity, SQL Server, Bootstrap
+
+[View Repository](https://github.com/DeibyGitHub/school-payment-management-system)
 
 **Technologies:** C#, ASP.NET Core MVC, SQL Server, Entity Framework Core, HTML, CSS, JavaScript
 
